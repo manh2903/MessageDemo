@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665893815015",
+    "project_id": "chat-app-6d085",
+    "storage_bucket": "chat-app-6d085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665893815015:android:bb683ddbe1c41a32221842",
+        "android_client_info": {
+          "package_name": "com.ndm.messagedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMTPSepFlobkj3hw_Ca3rBYfhoJ1zUtCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
